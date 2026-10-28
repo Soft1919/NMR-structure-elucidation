@@ -21,7 +21,7 @@ structures exhaustively.
 ## Install
 
 ```bash
-git clone https://github.com/<you>/nmr-structure-elucidation ~/.claude/skills/nmr-structure-elucidation
+git clone https://github.com/Soft1919/NMR-structure-elucidation.git ~/.claude/skills/nmr-structure-elucidation
 pip install -r ~/.claude/skills/nmr-structure-elucidation/requirements.txt
 ```
 
