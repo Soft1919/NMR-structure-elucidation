@@ -1,0 +1,14 @@
+work/
+__pycache__/
+*.pyc
+*.docx
+*.pptx
+*.pdf
+*.emf
+*.mnova
+*.bin
+*.fid
+*.ser
+*.png
+*.pkl
+.DS_Store

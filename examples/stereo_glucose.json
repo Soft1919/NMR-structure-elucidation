@@ -1,0 +1,6 @@
+{
+ "_comment": "Public sanity check: C-1 and C-2 configurations left open; measured J(1,2)=8.0, J(2,3)=9.4 Hz (beta-D-glucopyranose, D2O). Expected winner: beta-gluco.",
+ "smiles": "O[CH:1]1O[C@H:5](CO)[C@@H:4](O)[C@H:3](O)[CH:2]1O",
+ "j": [[1, 2, 8.0], [2, 3, 9.4], [3, 4, 9.2]],
+ "noe": [[1, 3], [1, 5]]
+}
